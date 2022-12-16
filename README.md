@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on astronauts.id
+- 🔭 I’m currently working on [astronauts.id](https://astronauts.id)
 - 🌱 I’m currently learning **Typescript**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikaribrahim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
