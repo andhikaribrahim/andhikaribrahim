@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning **Typescript**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikaribrahim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<script src="https://gist.github.com/andhikaribrahim/4605617ca33f11c6ab6a28c71dd04777.js"></script>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21cbii2iebnickloqgzbm7sca&cover_image=false&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21cbii2iebnickloqgzbm7sca&redirect=true)
 
 <!--
 **andhikaribrahim/andhikaribrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
