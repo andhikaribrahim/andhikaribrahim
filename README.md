@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🚀 I’m currently working at [astronauts.id](https://astronauts.id)
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** & Reverse Engineering
 
 <div align="center">
 
